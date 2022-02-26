@@ -4,3 +4,8 @@ h1 {
     font-size: large;
 
 }
+img {
+
+    width: 200px;
+    border-radius: 50px;
+}
