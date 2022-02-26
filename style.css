@@ -11,4 +11,8 @@ img {
 }
 a{display: block;}
 h3{text-align: center;}
-h5{text-align: right;}
+.about-me{
+    display:flex;
+    justify-content: space-around;
+    background-color: deeppink;
+}
